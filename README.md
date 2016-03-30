@@ -1,2 +1,2 @@
 # katiepino.github.io
-skillcrush github repository
+github repository to host my website
