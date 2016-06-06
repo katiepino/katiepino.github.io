@@ -1,0 +1,132 @@
+.navbar-brand {
+  font-weight: 800;
+}
+
+.navbar-custom .nav li a {
+  text-transform: uppercase;
+  font-size: 12px;
+  font-weight: 800;
+  letter-spacing: 1px;
+}
+
+.navbar-custom .navbar-brand {
+  color: #8e8e8e;
+  padding: 20px;
+}
+
+.navbar-custom .nav li a {
+  color: #777777;
+  padding: 20px;
+}
+.navbar-custom{
+  background: rgba(238, 238, 238, 0.7);
+  border-bottom: 1px;
+}
+.intro-header {
+  background-color: #808080;
+  background: no-repeat center center;
+  background-attachment: scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  margin-bottom: 50px;
+}
+
+.intro-header .site-heading {
+  padding: 100px 0 50px;
+  color: white;
+}
+
+@media only screen and (min-width: 768px) {
+  .intro-header .site-heading {
+    padding: 150px 0;
+  }
+}
+
+.intro-header .site-heading {
+  text-align: center;
+}
+
+.intro-header .site-heading h1 {
+  margin-top: 0;
+  font-size: 50px;
+}
+
+.intro-header .site-heading .subheading {
+  font-size: 24px;
+  line-height: 1.1;
+  display: block;
+  font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'sans-serif';
+  font-weight: 00;
+  margin: 10px 0 0;
+}
+
+.row .site-heading h1 {
+  margin-top: 0;
+  font-size: 80px;
+  font-weight: 500;
+  font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'sans-serif';
+}
+
+.row .site-heading .subheading {
+  font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'sans-serif';
+  font-size: 24px;
+  margin: 10px 0 30px;
+  font-weight: 200;
+}
+
+hr.small {
+  max-width: 100px;
+  margin: 15px auto;
+  border-width: 4px;
+  border-color: #fff;
+}
+
+#about,
+#portfolio,
+#contact {
+  padding-top: 32px;
+}
+
+#profilePicSml {
+margin-bottom: 28px;
+}
+#portfolio h2 {
+  padding-bottom: 16px;
+}
+h2 {
+  font-family:'Helvetica Neue', 'Helvetica', 'Arial', 'sans-serif';
+  margin: 0 0 28px 0;
+}
+
+footer .copyright {
+  font-size: 14px;
+  text-align: center;
+}
+
+p {
+  font-size: 16px;
+  line-height:1.5;
+  padding:28px 0;
+}
+.vcenter {
+    display: flex;
+    align-items: center;
+}
+
+a {
+  color: #404040;
+  font-size: 24px;
+}
+
+a:hover,
+a:focus {
+  color: #0085a1;
+}
+i{
+  font-size:32px;
+}
+#contact-hidden {
+  float: none;
+}
