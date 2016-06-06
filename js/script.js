@@ -1,4 +1,4 @@
-$(document).ready(function() {
+/*$(document).ready(function() {
   $(".navbar-brand").html("{design . develop . deliver}");
   $("#name").html("Katie Nordman")
   $("#title").html("Web Developer")
@@ -15,4 +15,4 @@ $(document).on('click','.navbar-collapse.in',function(hideMenu) {
     if( $(hideMenu.target).is('a') && $(hideMenu.target).attr('class') != 'dropdown-toggle' ) {
         $(this).collapse('hide');
     }
-});
+});*/
