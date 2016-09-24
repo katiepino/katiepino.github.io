@@ -1,7 +1,7 @@
 $(document).ready(function() {
   $(".navbar-brand").html("{design . develop . deliver}");
   $("#name").html("Katie Nordman")
-  $("#title").html("Developer")
+  $("#title").html("Analyst & Developer")
   $("#coverPhoto").attr("style", "background-image: url('https://raw.githubusercontent.com/katiepino/katiepino.github.io/master/images/about.png')");
   $("#profilePic").attr("src","https://raw.githubusercontent.com/katiepino/katiepino.github.io/master/images/sml_katie_crop.jpg");
   $("#profilePicSml").attr("src","https://raw.githubusercontent.com/katiepino/katiepino.github.io/master/images/sml_katie_crop.jpg");
