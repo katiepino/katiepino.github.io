@@ -100,6 +100,11 @@ h2 {
   margin: 0 0 28px 0;
 }
 
+.modal-text-buffer{
+  margin-left: 24px;
+  margin-right: 24px;
+}
+
 footer .copyright {
   font-size: 14px;
   text-align: center;
