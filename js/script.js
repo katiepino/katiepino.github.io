@@ -3,7 +3,6 @@ $(document).ready(function() {
   $("#name").html("Katie Nordman")
   $("#title").html("Analyst & Developer")
   $("#coverPhoto").attr("style", "background-image: url('https://raw.githubusercontent.com/katiepino/katiepino.github.io/master/images/about.png')");
-  $("#profilePic").attr("src","https://raw.githubusercontent.com/katiepino/katiepino.github.io/master/images/sml_katie_two.jpg");
   $("#profilePicSml").attr("src","https://raw.githubusercontent.com/katiepino/katiepino.github.io/master/images/sml_katie_two.jpg");
   $(".portimgone").attr("src","https://raw.githubusercontent.com/katiepino/katiepino.github.io/master/images/courtcounter.png");
   $(".portonetitle").html("Android App: Court Counter");
@@ -13,7 +12,9 @@ $(document).ready(function() {
   $(".portsumtwo").html("Jargon Generator is an Android app built to help you out during those tough business meetings when you just can't think of the appropriate meaningless phrase to use. We all know that a corporate meeting isn't complete without a few '30,000 foot', 'leveraged', 'synergy' words tossed randomly into the mix. Just add coffee and you have a recipe for success. Go get 'em.")
   $("#aboutText").html("I am an accountant turned developer. At the moment my focus is on data analysis but I also like to dabble in front-end web development and Android app development. Finding solutions and seeing the product of my efforts is what I enjoy. A special thanks to freeCodeCamp, Udacity, edX and all the other online resources that make it possible for me to pursue my interests.");
   $("#contactText").html("You have questions, I have answers. Maybe. Feel free to connect with me around the web via social media. I would love to meet you and hear what you have to say.");
-  $(".twitterLink").attr("href","https://twitter.com/katie_nordman"); $(".facebookLink").attr("href","https://www.facebook.com/katherine.pino.31");
+  $(".wordpressLink").attr("href","https://parsemybrain.wordpress.com/");
+  $(".twitterLink").attr("href","https://twitter.com/katie_nordman");
+  $(".facebookLink").attr("href","https://www.facebook.com/katherine.pino.31");
   $(".githubLink").attr("href","https://github.com/katiepino");
   $(".linkedinLink").attr("href","https://www.linkedin.com/in/katienordman");
 });
