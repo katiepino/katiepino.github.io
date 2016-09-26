@@ -4,6 +4,7 @@ $(document).ready(function() {
   $("#title").html("Analyst & Developer")
   $("#coverPhoto").attr("style", "background-image: url('https://raw.githubusercontent.com/katiepino/katiepino.github.io/master/images/about.png')");
   $("#profilePic").attr("src","https://raw.githubusercontent.com/katiepino/katiepino.github.io/master/images/sml_katie_two.jpg");
+  $("#profilePicSml").attr("src","https://raw.githubusercontent.com/katiepino/katiepino.github.io/master/images/sml_katie_two.jpg");
   $(".portimgone").attr("src","https://raw.githubusercontent.com/katiepino/katiepino.github.io/master/images/courtcounter.png");
   $(".portonetitle").html("Android App: Court Counter");
   $(".portsumone").html("Court Counter is an Android app built to keep score during basketball games. Keep track of points scored for two teams and reset the scores for a new match.")
