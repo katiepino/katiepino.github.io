@@ -12,10 +12,10 @@ $(document).ready(function() {
   $(".porttwotitle").html("Android App: Jargon Generator");
   $(".portsumtwo").html("Jargon Generator is an Android app built to help you out during those tough business meetings when you just can't think of the appropriate meaningless phrase to use. We all know that a corporate meeting isn't complete without a few '30,000 foot', 'leveraged', 'synergy' words tossed randomly into the mix. Just add coffee and you have a recipe for success. Go get 'em.")
   $(".portimgthree").attr("src","https://raw.githubusercontent.com/katiepino/data-analysis/master/text/firstusprezdebate2016/clinton_wordcloud_final.png");
-  $(".portthreetitle").html("Word Clouds: Presidential Debate 2016");
+  $(".portthreetitle").html("Word Clouds: Presidential Debate 2016 - Clinton");
   $(".portsumthree").html("This word cloud visualizing Clinton's most frequently used words by size was created using the R programming language. Transcript from NYTimes.")
   $(".portimgfour").attr("src","https://raw.githubusercontent.com/katiepino/data-analysis/master/text/firstusprezdebate2016/trump_wordcloud_final.png");
-  $(".portfourtitle").html("Word Clouds: Presidential Debate 2016");
+  $(".portfourtitle").html("Word Clouds: Presidential Debate 2016 - Trump");
   $(".portsumfour").html("This word cloud visualizing Trump's most frequently used words by size was created using the R programming language. Transcript from NYTimes.")
   $("#aboutText").html("I am an accountant turned developer. At the moment my focus is on data analysis but I also like to dabble in front-end web development and Android app development. Finding solutions and seeing the product of my efforts is what I enjoy. A special thanks to freeCodeCamp, Udacity, edX and all the other online resources that make it possible for me to pursue my interests.");
   $("#contactText").html("You have questions, I have answers. Maybe. Feel free to connect with me around the web via social media. I would love to meet you and hear what you have to say.");
