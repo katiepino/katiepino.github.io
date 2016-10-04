@@ -17,7 +17,7 @@ $(document).ready(function() {
   $(".portimgfour").attr("src","https://raw.githubusercontent.com/katiepino/data-analysis/master/text/firstusprezdebate2016/trump_wordcloud_final.png");
   $(".portfourtitle").html("Word Clouds: Presidential Debate 2016 - Trump");
   $(".portsumfour").html("This word cloud visualizing Trump's most frequently used words by size was created using the R programming language. Transcript from <a href = 'http://www.nytimes.com/2016/09/27/us/politics/transcript-debate.html'>NYTimes</a>.")
-  $("#aboutText").html("I am an accountant turned developer. At the moment my focus is on data analysis but I also like to dabble in front-end web development and Android app development. Finding solutions and seeing the product of my efforts is what I enjoy. A special thanks to freeCodeCamp, Udacity, edX and all the other online resources that make it possible for me to pursue my interests.");
+  $("#aboutText").html("I am an analyst and developer with a background in business, finance, and accounting. I love math, statistics, and all things data. At the moment my focus is on data analysis but I also like to dabble in front-end web development and Android app development. Finding solutions and seeing the product of my efforts is what I enjoy. A special thanks to freeCodeCamp, Udacity, edX and all the other online resources that make it possible for me to pursue my interests.");
   $("#contactText").html("You have questions, I have answers. Maybe. Feel free to connect with me around the web via social media. I would love to meet you and hear what you have to say.");
   $(".wordpressLink").attr("href","https://parsemybrain.wordpress.com/");
   $(".twitterLink").attr("href","https://twitter.com/katie_nordman");
