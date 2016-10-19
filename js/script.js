@@ -23,6 +23,9 @@ $(document).ready(function() {
   $(".portimgsix").attr("src","https://raw.githubusercontent.com/katiepino/data-analysis/master/text/secondusprezdebate/trump-debate-two-word-cloud.png");
   $(".portsixtitle").html("Word Clouds: Second Presidential Debate 2016 - Trump");
   $(".portsumsix").html("This word cloud visualizing Trump's most frequently used words by size was created using the R programming language. Transcript from <a href = 'http://www.vox.com/policy-and-politics/2016/10/9/13220702/second-presidential-debate-live-transcript-clinton-trump'>Vox</a>.")
+  $(".portimgseven").attr("src","https://raw.githubusercontent.com/katiepino/katiepino.github.io/master/images/indeedscraperscript.PNG");
+  $(".portseventitle").html("Indeed Scraper");
+  $(".portsumseven").html("This is a partial view of the <a href='https://github.com/katiepino/data-analysis/blob/master/projects/indeed_scraper.py'>python script</a> I wrote to scrape Indeed job posting data, utilizing Beautiful Soup.")  
   $("#aboutText").html("I am an analyst and developer with a background in business, finance, and accounting. I love math, statistics, and all things data. At the moment my focus is on data analysis but I also like to dabble in front-end web development and Android app development. Finding solutions and seeing the product of my efforts is what I enjoy. A special thanks to freeCodeCamp, Udacity, edX and all the other online resources that make it possible for me to pursue my interests.");
   $("#contactText").html("You have questions, I have answers. Maybe. Feel free to connect with me around the web via social media. I would love to meet you and hear what you have to say.");
   $(".wordpressLink").attr("href","https://parsemybrain.wordpress.com/");
